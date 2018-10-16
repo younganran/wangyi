@@ -1,5 +1,5 @@
-# wangyi
-网易严选项目
+# ceshi
+网易严选
 
 ## day01 github 应用
 - git本地
